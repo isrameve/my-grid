@@ -1,0 +1,14 @@
+.backgoud1 {
+    background-color: darkgray;
+    height: 50px;
+    border: 1px solid black;
+    text-align: center;
+    padding-top: 15px;
+}
+.backgoud2 {
+    background-color: darksalmon;
+    height: 50px;
+    border: 1px solid black;
+    text-align: center;
+    padding-top: 15px;
+}
